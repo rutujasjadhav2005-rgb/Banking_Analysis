@@ -57,7 +57,7 @@ The project includes the following tables:
 
 ## Project File
 
-`Banking_Analysis.sql` contains the SQL scripts for creating database tables, inserting sample records, modifying table structures, and performing banking data analysis.
+Contains the SQL scripts for creating database tables, inserting sample records, modifying table structures, and performing banking data analysis.
 
 ## Conclusion
 
